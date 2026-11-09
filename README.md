@@ -52,8 +52,6 @@ For Q44, run the function definition before running its two test queries.
 
 ## Key findings
 
-[Add a short summary of one or two findings after reviewing your query results.]
-
 See [insights.md](insights.md) for the findings, their business implications,
 and the recommended actions.
 
