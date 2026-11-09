@@ -7,7 +7,7 @@ This analysis covers January 2025 through September 2026. Revenue and customer s
 The Mobile Phones category recorded the highest revenue (KSh 6,942,060.65) and gross profit (KSh 728,760.65). Accessories generated gross profit of KSh 456,746.10 at a margin of 42.39%, compared with 10.50% for Mobile Phones.  Overall, Mobile Phones contribute the most gross profit, while Accessories earn more gross profit per shilling of revenue.
 Try selling compatible accessories at the phone checkout. Before you expand the offer, track how often customers are adding an accessory and see if your gross profit per order increases.
 
-[Product_Category_Revenue](Screenshots/Revenue_per_category.png)
+[Product_Category_Revenue](https://github.com/EstherNjihia/retail-sales-sql/blob/main/Screenshots/Revenue_per_product_category.png)
 
 ## 2. Nairobi generated about 40% of completed revenue 
 
