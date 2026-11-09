@@ -63,4 +63,4 @@ and the recommended actions.
 | `schema.sql` | Table definitions copied from `02_create_tables.sql` |
 | `queries.sql` | Answers to Q1–Q46 |
 | `insights.md` | At least five business findings supported by query results |
-| `screenshots/` | Data verification output and 3–5 selected query results |
+| `screenshots/` | Data verification output and 4 query results |
